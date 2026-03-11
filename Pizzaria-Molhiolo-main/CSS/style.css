@@ -222,38 +222,19 @@ img{
 .steve{
     position: absolute;
     top: 5px;
-    left: 475px;
-    width: 150px;
-    height: 150px;
-
-}
-
-.steve2{
-    transform: scaleX(-1);
-    position:absolute;
-    top: 5px;
-    right: 370px;
-    width: 150px;
-    height: 150px;
-
-}
-
-.steve3{
-    position:absolute;
     left: 380px;
-    top: 1890px;
-    width: 170px;
-    height: 135px;
+    width: 150px;
+    height: 150px;
 
 }
 
 .steve4{
     transform: scaleX(-1);
     position:absolute;
-    right: 460px;
-    top: 1970px;
-    width: 170px;
-    height: 135px;
+    right: 390px;
+    top: 1940px;
+    width: 180px;
+    height: 150px;
 
 }
 

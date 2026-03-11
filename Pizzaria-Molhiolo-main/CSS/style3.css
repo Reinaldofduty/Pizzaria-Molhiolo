@@ -61,7 +61,7 @@
 
     .btn-submit {
       width: 100%;
-      margin-top: 10px;
+      margin-top: 14px;
       padding: 12px;
       background: #007BFF;
       color: #fff;
@@ -78,7 +78,7 @@
 
       .btn-reset {
         margin-left: 41.5%;
-        margin-top: 12px;
+        margin-top: 14px;
         border-radius: 6px;
         display: flex;
         align-items: center;
@@ -154,19 +154,10 @@
     color: rgba(255, 255, 255, 0.786);
 }
 
-.steve00{
-    position: absolute;
-    top: 5px;
-    left: 370px;
-    width: 150px;
-    height: 150px;
-
-}
-
 .steve02{
     position:absolute;
     top: 5px;
-    left: 460px;
+    left: 380px;
     width: 160px;
     height: 150px;
 
