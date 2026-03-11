@@ -77,6 +77,15 @@ body{
     margin-bottom: 30px;
 }
 
+.btn {
+    padding: 14px;
+    font-size: large;
+    border-radius: 15px;
+    background-color: #1cce93;
+    color: azure;
+    text-decoration: none;
+}
+
 .btn a{
     padding: 15px;
     font-size: large;
@@ -87,7 +96,7 @@ body{
 }
 
 .btn a:hover{
-    font-size: 1.7em;
+    font-size: 1.5em;
     transition: 0.5s;
     cursor: pointer;
     font: bolder;
@@ -232,7 +241,7 @@ img{
     transform: scaleX(-1);
     position:absolute;
     right: 390px;
-    top: 1940px;
+    top: 1960px;
     width: 180px;
     height: 150px;
 
